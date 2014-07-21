@@ -18,7 +18,8 @@ tags = []
 
 [dependencies.sdl2]
 
-git = "https://github.com/PistonDevelopers/rust-sdl2"
+# until https://github.com/PistonDevelopers/rust-sdl2/pull/5 is merged.
+git = "https://github.com/RobotGymnast/rust-sdl2"
 
 [dependencies.piston]
 
