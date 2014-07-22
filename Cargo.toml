@@ -27,7 +27,7 @@ git = "https://github.com/PistonDevelopers/piston"
 
 [dependencies.gl]
 
-git = "https://github.com/bjz/gl-rs"
+git = "https://github.com/elijahandrews/gl-rs"
 
 [[lib]]
 
